@@ -24,3 +24,22 @@ gEEJqbe97A3p1T9M
 
 MOnggodb connection
 mongodb+srv://admin:gEEJqbe97A3p1T9M@cluster0.wfmawjg.mongodb.net/?retryWrites=true&w=majority
+
+
+front end
+
+install necessary packages
+
+npm i @reduxjs/toolkit
+npm i react-router-dom
+npm i mdb-react-ui-kit
+npm i moment
+npm i react-file-base64
+npm i react-google-login
+npm i react-redux 
+npm i react-toastify
+npm i material-ui-chip-input
+npm i axios
+
+
+rafce shortcut in pages
