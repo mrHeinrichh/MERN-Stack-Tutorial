@@ -17,3 +17,10 @@ npm i moran: This command installs the morgan library, which is used for logging
 
 npm i nodemon --save-dev: This command installs the nodemon library as a development dependency for the project.
 
+tour-app mongodb password
+
+admin
+gEEJqbe97A3p1T9M
+
+MOnggodb connection
+mongodb+srv://admin:gEEJqbe97A3p1T9M@cluster0.wfmawjg.mongodb.net/?retryWrites=true&w=majority

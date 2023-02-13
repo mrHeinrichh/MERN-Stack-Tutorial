@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    
     "dev": "nodemon index.js"
   },
   "author": "",
@@ -16,13 +17,13 @@
     "i": "^0.3.7",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.1",
+    "mongoose-morgan": "^1.0.17",
     "moran": "^0.0.11",
+    "morgan": "^1.10.0",
     "npm": "^9.4.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
-
-    "type": "module"
- 
+  "type": "module"
 }
